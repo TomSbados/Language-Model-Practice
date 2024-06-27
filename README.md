@@ -1,2 +1,2 @@
 # Langauge-Model-Practice
-Learning to use language models.
+Learning to create basic language models.
