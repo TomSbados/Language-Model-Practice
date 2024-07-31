@@ -1,5 +1,10 @@
-# Langauge-Model-Practice
+# The Goal
 
+The aim of this project was to learn more about the creation and implementation of machine learning in language models. 
+
+# The Results
+
+At the time of making this project, my computational resources were limited (to say the least), so I am quite glad at how coherent the text ended up being.
 
 SendOP:
 Nour humble bewittle's gatte
@@ -14,4 +19,4 @@ Erth of come the stans and serve I am armst rest.
 BUKENS OF GAUREMA:
 Honswary, he ominy.
 
-Truer words have never been spoken.
+As you can see, truer words have never been spoken.
