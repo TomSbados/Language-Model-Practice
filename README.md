@@ -2,6 +2,10 @@
 
 The aim of this project was to learn more about the creation and implementation of machine learning in language models. Frameworks used were Pytorch as well as the TikToken library from OpenAI.
 
+Bigram.ipynb --- Basic bigram model (test TikToken set up conda on MPS)
+Latex.ipynb --- Latex output
+Shakespeare.ipynb --- Shakespeare output
+
 # The Results
 
 At the time of making this project, my computational resources were limited (to say the least), so I am quite glad at how coherent the text ended up being.
