@@ -31,3 +31,10 @@ b_n=a^{n} = a_0 \delta (x,t) + b\delta\sin{x\in L^2} = 1
 $$
 
 With only minimal context, the model managed to properly close parenthesis and brackets to have compiled code.
+
+$$
+n \geq N < \frac{1}{N} \sum_{n=0}^{N-1} f\circ T^n
+$$
+
+This one could almost be something you'd see in real analysis.
+
