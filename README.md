@@ -29,3 +29,5 @@ $$
 $$
 b_n=a^{n} = a_0 \delta (x,t) + b\delta\sin{x\in L^2} = 1
 $$
+
+With only minimal context, the model managed to properly close parenthesis and brackets to have compiled code.
