@@ -4,5 +4,5 @@ The aim of this project was to learn more about the creation and implementation 
 
 Bigram.ipynb --- Basic bigram model (test TikToken set up conda on MPS)
 
-Latex.ipynb --- Latex output
+Trigram.ipynb --- trigram model with transformer architecture
 
