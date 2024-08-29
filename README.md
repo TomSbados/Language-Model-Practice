@@ -38,3 +38,6 @@ $$
 
 This one could almost be something you'd see in real analysis.
 
+$$
+\frac{1}{\sqrt{2\pi}}\frac{\pi}{2}\left[\cos\frac{(x)-f(x+x)^2+\Delta)}{II}\right]
+$$
