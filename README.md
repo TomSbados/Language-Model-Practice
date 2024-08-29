@@ -6,5 +6,5 @@ I also implemented dropout and learning rate decay for better eval performance. 
 
 Bigram.ipynb --- Basic bigram model (test TikToken set up conda on MPS)
 
-Trigram.ipynb --- trigram model with transformer architecture
+Latex-3.ipynb --- trigram model with transformer architecture
 
