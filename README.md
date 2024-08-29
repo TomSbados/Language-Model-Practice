@@ -8,3 +8,24 @@ Bigram.ipynb --- Basic bigram model (test TikToken set up conda on MPS)
 
 Latex-3.ipynb --- trigram model with transformer architecture
 
+The most impressive TeX equations achieved by the model:
+
+$$
+u^{n-1}u'(0) = \lim_{n\to \infty} \frac{1}{n}\int_\Omega^{-i\alpha}ke={e^{-\alpha,ex} = 0}
+$$
+
+$$
+\beta u' = -\frac{g(x)}{\lambda(x)P(x)} = Q(x)
+$$
+
+$$
+t^3r = \frac{1}{2\pi} \sin k(x'-L)
+$$
+
+$$
+\lambda = \int dx' p(x) f(x) \delta
+$$
+
+$$
+b_n=a^{n} = a_0 \delta (x,t) + b\delta\sin{x\in L^2} = 1
+$$
